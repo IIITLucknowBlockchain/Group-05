@@ -5,10 +5,11 @@ Group Members include:
 
 B. Tech (Computer Science)
 
-Mani Raj Gupta (LCS2021037)
+Mani Raj Gupta (LCS2021037)                                              
 Samudrala Sharath Chandra (LCS2021027)
 
 MBA (Digital Business)
+
 Sakshi Shukla (MDB23007)                     
 Harsh Pandey (MDB23019)                  
 Utkarsh Kumar Pandey (MDB23030)
