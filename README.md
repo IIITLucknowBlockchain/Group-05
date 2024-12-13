@@ -4,6 +4,7 @@ This proposal focuses on revolutionizing the freelance economy by leveraging blo
 Group Members include:
 
 B. Tech (Computer Science)
+
 Mani Raj Gupta (LCS2021037)
 Samudrala Sharath Chandra (LCS2021027)
 
